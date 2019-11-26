@@ -3,7 +3,7 @@
 
 EDM can determine xyz coordinates. 
 
-EDMs follow bonding rules.
+EDMs follow rules based on bonding patterns and torsional stress. 
 
 Can you learn EDM construction rules with a GAN or a GMM? 
 
